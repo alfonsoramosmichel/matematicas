@@ -1,0 +1,6 @@
+# Divisibilidad de los números
+
+## Índice
+1. [Divisibilidad entre 2](#div2)
+
+## Divisibilidad entre 2 <a name="div2"></a>
